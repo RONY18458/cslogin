@@ -1,0 +1,7 @@
+C:\Users\Alumno\Desktop\LOGINRN\LOGINRN\obj\Debug\LOGINRN.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\LOGINRN\LOGINRN\obj\Debug\LOGINRN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\LOGINRN\LOGINRN\obj\Debug\LOGINRN.Form1.resources
+C:\Users\Alumno\Desktop\LOGINRN\LOGINRN\obj\Debug\LOGINRN.Properties.Resources.resources
+C:\Users\Alumno\Desktop\LOGINRN\LOGINRN\obj\Debug\LOGINRN.registrarme.resources
+C:\Users\Alumno\Desktop\LOGINRN\LOGINRN\obj\Debug\LOGINRN.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\LOGINRN\LOGINRN\obj\Debug\LOGINRN.csproj.CoreCompileInputs.cache
